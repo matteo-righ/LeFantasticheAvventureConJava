@@ -1,2 +1,2 @@
 # LeFantasticheAvventureConJava
-Just me some free time and java, the shittiest programming language of all time
+Just Java, some free time and me, a delusional little man, trying to learn java.
